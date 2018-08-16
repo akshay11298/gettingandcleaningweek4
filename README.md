@@ -2,10 +2,7 @@
 title: "README.md"
 author: "Akshay Avinash"
 date: "16 August, 2018"
-output: html_document
 ---
-
-## R Markdown
 
 # Getting and Cleaning Data Project
 
